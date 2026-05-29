@@ -18,3 +18,7 @@ From cargo:
   - hyprland-per-window-layout
 
 Hyprland config: hyprland.conf
+
+When everything is installed open the noctalia settings.
+  - Launcher -> Execute use `ghostty -e`
+  - Uncheck Wallpapers -> Enable Walppaper Management 
