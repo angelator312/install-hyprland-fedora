@@ -14,4 +14,7 @@ From the official:
   - grim
   - slurp
 
+From cargo:
+  - hyprland-per-window-layout
+
 Hyprland config: hyprland.conf
