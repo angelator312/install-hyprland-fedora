@@ -6,9 +6,12 @@ From [terra](https://terrapkg.com/):
 From [lionheartp/Hyprland](https://wiki.hypr.land/Getting-Started/Installation/):
   - hyprland(copr)
   - xdg-desktop-portal-hyprland
+  - hyprland-guiutils
 
 From the official:
   - pipewire
   - wireplumber
+  - grim
+  - slurp
 
 Hyprland config: hyprland.conf
